@@ -2,11 +2,11 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
+    "I'll start speaking finnish >:(",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Ole hyvä.",
+    "Apparently it is friendsday in Finland, so Ole hyvä Ystävänpäivä",
+    "Please.",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
